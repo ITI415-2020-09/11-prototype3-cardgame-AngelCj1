@@ -8,6 +8,7 @@ public class Deck : MonoBehaviour {
     public bool startFaceUp = false;
     // Suits
     public Sprite suitClub;
+    public Sprite suitClub2;
     public Sprite suitDiamond;
     public Sprite suitHeart;
     public Sprite suitSpade;
